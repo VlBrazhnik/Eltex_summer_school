@@ -10,4 +10,5 @@ Usefullnesses:
 4) [Lesson's records](https://www.youtube.com/watch?v=HTb8YM6SG0E&list=PLEEyllzHN_sLqZnmaC7WUP6VWPZDkiOap)
 5) [Awesowe C by Kozross](https://github.com/oz123/awesome-c)
 6) [Computer Systems A Programmer's Perspective](http://csapp.cs.cmu.edu/2e/samples.html)
-7) *soon*
+7) [The Linux Programming Interface](https://man7.org/index.html) Michael Kerrisk
+8) *soon*
